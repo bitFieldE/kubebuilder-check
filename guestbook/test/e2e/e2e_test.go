@@ -24,7 +24,7 @@ import (
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 
-	"my.domain/guestbook/test/utils"
+	"github.com/bitFieldE/kubebuilder-check/guestbook/test/utils"
 )
 
 const namespace = "guestbook-system"

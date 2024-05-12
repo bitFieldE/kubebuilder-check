@@ -24,7 +24,7 @@ import (
 	"sigs.k8s.io/controller-runtime/pkg/client"
 	"sigs.k8s.io/controller-runtime/pkg/log"
 
-	webappv1 "my.domain/guestbook/api/v1"
+	webappv1 "github.com/bitFieldE/kubebuilder-check/guestbook/api/v1"
 )
 
 // GuestbookReconciler reconciles a Guestbook object

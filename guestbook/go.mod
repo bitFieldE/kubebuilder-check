@@ -1,4 +1,4 @@
-module my.domain/guestbook
+module github.com/bitFieldE/kubebuilder-check/guestbook
 
 go 1.21
 
